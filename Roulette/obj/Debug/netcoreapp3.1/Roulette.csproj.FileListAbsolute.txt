@@ -1,0 +1,11 @@
+C:\Users\aaron\OneDrive\Desktop\Roulette\bin\Debug\netcoreapp3.1\Roulette.exe
+C:\Users\aaron\OneDrive\Desktop\Roulette\bin\Debug\netcoreapp3.1\Roulette.deps.json
+C:\Users\aaron\OneDrive\Desktop\Roulette\bin\Debug\netcoreapp3.1\Roulette.runtimeconfig.json
+C:\Users\aaron\OneDrive\Desktop\Roulette\bin\Debug\netcoreapp3.1\Roulette.runtimeconfig.dev.json
+C:\Users\aaron\OneDrive\Desktop\Roulette\bin\Debug\netcoreapp3.1\Roulette.dll
+C:\Users\aaron\OneDrive\Desktop\Roulette\bin\Debug\netcoreapp3.1\Roulette.pdb
+C:\Users\aaron\OneDrive\Desktop\Roulette\obj\Debug\netcoreapp3.1\Roulette.csprojAssemblyReference.cache
+C:\Users\aaron\OneDrive\Desktop\Roulette\obj\Debug\netcoreapp3.1\Roulette.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Desktop\Roulette\obj\Debug\netcoreapp3.1\Roulette.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Desktop\Roulette\obj\Debug\netcoreapp3.1\Roulette.dll
+C:\Users\aaron\OneDrive\Desktop\Roulette\obj\Debug\netcoreapp3.1\Roulette.pdb
